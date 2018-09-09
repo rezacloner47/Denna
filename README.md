@@ -13,7 +13,7 @@
     <a href="https://t.me/joinchat/EJ9gLURDAcbOxpoIGSdD8g">Insiders Group</a>
   &middot;
     <a href="https://install.appcenter.ms/orgs/mahstudio-u5ev/apps/denna/distribution_groups/insiders">Nightly builds</a>
-    <br>
+    <br>sdfdsvsdvdfsv
     <br>
   <a href="https://install.appcenter.ms/orgs/mahstudio-u5ev/apps/denna/distribution_groups/insiders">
     <img src="https://build.appcenter.ms/v0.1/apps/dc393a1e-1121-4a3e-99c2-589182d9e5f6/branches/master/badge">
